@@ -43,9 +43,3 @@ This project was created by **Ayaan Khan** during his **internship at Quasar Dig
 
 ---
 
-## ⚙️ Setup Instructions
-
-### 1️⃣ Clone this repository
-```bash
-git clone https://github.com/<your-username>/AI-Meeting-Transcript-Analyzer.git
-cd AI-Meeting-Transcript-Analyzer
